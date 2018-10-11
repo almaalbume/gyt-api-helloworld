@@ -1,0 +1,27 @@
+{
+  "name": "gyt-api-helloworld",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almaalbume/gyt-api-helloworld.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "aburbano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/almaalbume/gyt-api-helloworld/issues"
+  },
+  "homepage": "https://github.com/almaalbume/gyt-api-helloworld#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.4"
+  }
+}
